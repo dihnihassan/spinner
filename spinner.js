@@ -34,8 +34,3 @@ setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 1700); 
 
-// module.exports = {
-//   spinner
-// }
-
-// process.stdout.write('hello from spinner1.js... \theyyy\n')
